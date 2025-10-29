@@ -1,7 +1,4 @@
-hello
-i exist
 
-@livingchair is me, i guess
 
 <!---
 livingchair/livingchair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
